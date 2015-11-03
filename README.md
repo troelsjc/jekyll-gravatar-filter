@@ -40,7 +40,7 @@ Credits
 ========
 Michał Ostrowski, <ostrowski.michal@gmail.com>
 
-repo@github: https://github.com/espresse/jekyll_gravatar_filter
+repo@github: https://github.com/espresse/jekyll-gravatar-filter
 
 blog: http://espresse.net
 
